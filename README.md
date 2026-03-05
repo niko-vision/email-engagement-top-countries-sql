@@ -1,4 +1,4 @@
-# Email engagement: Top-10 countries (BigQuery SQL)
+# Email engagement: Top countries (BigQuery SQL)
 
 This project builds a dataset to analyze:
 - account creation (account_cnt)
