@@ -15,3 +15,4 @@ Top-10 countries by total created accounts OR total sent emails.
 ## Files
 - `query.sql` — BigQuery SQL query
 - `dashboard.png` — Looker Studio dashboard screenshot
+![Dashboard](dashboard.png)
